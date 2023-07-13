@@ -1,2 +1,2 @@
-# FUTPLAY1_website
+# FUTPLAY Website
 This is a website for obtain investors attention.
